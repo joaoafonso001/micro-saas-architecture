@@ -1,0 +1,4 @@
+com\example\urlshortenerplugin\UrlShortenerRestController.class
+com\example\urlshortenerplugin\UrlShortenerPlugin.class
+META-INF\extensions.idx
+com\example\urlshortenerplugin\UrlShortenerExtension.class

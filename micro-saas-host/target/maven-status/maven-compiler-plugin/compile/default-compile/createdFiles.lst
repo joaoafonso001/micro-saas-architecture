@@ -1,0 +1,4 @@
+com\example\host\config\PluginConfig.class
+com\example\host\plugin\MicroSaaSModule.class
+com\example\host\MicroSaaSHostApplication.class
+com\example\host\controller\PluginController.class
