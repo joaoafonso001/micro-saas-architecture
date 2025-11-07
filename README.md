@@ -22,3 +22,13 @@ copy target/url-shortener-plugin-1.0.0.jar ../micro-saas-host/plugins/
 # Rodar o host
 cd ../micro-saas-host
 java -jar target/micro-saas-host-1.0.0.jar
+
+
+# Endpoint de teste
+GET http://localhost:8080/url/shorten?originalUrl=https://google.com
+
+Retorna : {
+  "originalUrl": "https://google.com",
+  "shortUrl": "https://short.ly/a7b9e5",
+  "status": "success"
+}
