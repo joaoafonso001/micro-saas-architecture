@@ -6,6 +6,9 @@ Este projeto demonstra uma arquitetura **Micro-SaaS** baseada em **módulos plug
 - **micro-saas-host** → Núcleo hospedeiro responsável por gerenciar plugins.
 - **url-shortener-plugin** → Módulo de teste que implementa um encurtador de URLs.
 
+# Aqui fica o link do preview da lovable onde colocamos a documentação!
+https://preview--plug-and-play-saas.lovable.app
+
 ## Execução
 ```bash
 # Build do host
@@ -32,6 +35,3 @@ Retorna : {
   "shortUrl": "https://short.ly/a7b9e5",
   "status": "success"
 }
-
-#Aqui fica o link do preview da lovable onde colocamos a documentação!
-https://preview--plug-and-play-saas.lovable.app
