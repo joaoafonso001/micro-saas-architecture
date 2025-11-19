@@ -32,3 +32,6 @@ Retorna : {
   "shortUrl": "https://short.ly/a7b9e5",
   "status": "success"
 }
+
+#Aqui fica o link do preview da lovable onde colocamos a documentação!
+https://preview--plug-and-play-saas.lovable.app
